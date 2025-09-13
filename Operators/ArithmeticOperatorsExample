@@ -1,0 +1,30 @@
+public class ArithmeticOperatorsExample {
+    public static void main(String[] args) {
+        int a = 15;
+        int b = 4;
+
+        // Addition: adds two numbers
+        int sum = a + b;
+        System.out.println("Addition: " + a + " + " + b + " = " + sum);
+
+        // Subtraction: subtracts second number from first
+        int difference = a - b;
+        System.out.println("Subtraction: " + a + " - " + b + " = " + difference);
+
+        // Multiplication: multiplies two numbers
+        int product = a * b;
+        System.out.println("Multiplication: " + a + " * " + b + " = " + product);
+
+        // Division: divides first number by second (integer division)
+        int quotient = a / b;
+        System.out.println("Division: " + a + " / " + b + " = " + quotient);
+
+        // Modulus: gives remainder of division
+        int remainder = a % b;
+        System.out.println("Modulus: " + a + " % " + b + " = " + remainder);
+
+        // If you want floating-point division:
+        double floatQuotient = (double) a / b;
+        System.out.println("Floating-point Division: " + a + " / " + b + " = " + floatQuotient);
+    }
+}
