@@ -169,5 +169,3 @@ Each of these can be modeled as **classes**, and their interactions can use **ob
 OOP is the foundation of Java. Mastering classes, objects, inheritance, polymorphism, abstraction, and encapsulation will enable you to write powerful, modular, and maintainable code.
 
 ---
-
-Would you like a **summary PDF**, **practice exercises**, or a **real-world Java OOP project**?
