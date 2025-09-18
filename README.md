@@ -96,6 +96,3 @@ Java Developer | Self-Learner | Problem Solver
 Star ⭐ this repo, fork 🍴 it, or use it as a reference for your own journey into Java mastery.
 
 Let's code something amazing. 🔥
-
-```
-
