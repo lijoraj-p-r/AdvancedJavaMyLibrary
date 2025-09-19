@@ -41,8 +41,8 @@ No frameworks, no dependencies — just **pure Java power**.
 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/core-java-library.git
-cd core-java-library
+git clone https://github.com/lijoraj-p-r/AdvancedJavaMyLibrary.git
+cd AdvancedJavaMyLibrary
 ````
 
 Compile and run any `.java` file:
@@ -84,7 +84,7 @@ core-java-library/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Lijoraj**
 Java Developer | Self-Learner | Problem Solver
 🌐 [GitHub](https://github.com/lijoraj-p-r)
 🔗 [LinkedIn](https://linkedin.com/in/lijoraj-p-r)
