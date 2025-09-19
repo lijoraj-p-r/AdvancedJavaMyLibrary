@@ -5,7 +5,7 @@
 // In the code below, we encapsulate the balance field by making it private. Access to this balance is only allowed 
 // via public getter and setter methods, ensuring that it can be safely updated or accessed.
 
-class BankAccount {
+class CustomerBankAccount {
     // The balance is private to protect it from direct modification.
     private double balance = 10000; // Balance is private (safe)
 
@@ -24,9 +24,9 @@ class BankAccount {
     }
 }
 
-public class Main {
+public class BankApp {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount();
+        CustomerBankAccount account = new CustomerBankAccount();
 
         // Read balance using the getter method
         System.out.println("Current Balance: $" + account.getBalance()); 
