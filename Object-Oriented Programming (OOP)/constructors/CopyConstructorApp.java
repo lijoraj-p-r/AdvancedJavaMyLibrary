@@ -6,7 +6,10 @@ public class CopyConstructorApp {
         private String state;
 
         // Constructor
-      
+        public Address(String city, String state) {
+            this.city = city;
+            this.state = state;
+        }
 
         // Copy Constructor
         public Address(Address other) {
