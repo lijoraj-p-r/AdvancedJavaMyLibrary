@@ -1,6 +1,17 @@
 public class FlowExample {
 
-   
+    // Static variable
+    static int staticVar = 10;
+
+    // Instance variable
+    int instanceVar = 20;
+
+    // Static block
+    static {
+        System.out.println("Static block executed. staticVar = " + staticVar);
+        staticVar = 30;
+    }
+
     // Instance block
     {
         System.out.println("Instance block executed. instanceVar = " + instanceVar);
